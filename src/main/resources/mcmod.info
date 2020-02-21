@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ruby",
+  "name": "Ruby",
+  "description": "A world with Ruby!",
+  "version": "1.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["imxiaoanag"],
+  "credits": "The Forge and FML guys and thanks for MrCrayFish's tutorial",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

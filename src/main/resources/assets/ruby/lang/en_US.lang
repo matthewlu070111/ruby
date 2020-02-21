@@ -1,0 +1,37 @@
+#Items
+item.ItemRuby.name=Ruby
+item.ItemIndigoIngot.name=Indigo Ingot
+item.FoodRubyApple.name=Ruby Apple
+item.FoodCookedRubyApple.name=Cooked Ruby Apple
+#Blocks
+tile.BlockRubyBlock.name=Block Of Ruby
+tile.BlockRubyOre.name=Ruby Ore
+tile.BlockIndigoOre.name=Indigo Ore
+#T&W&A
+item.ItemRubyPickaxe.name=Ruby Pickaxe
+item.ItemRubyAxe.name=Ruby Axe
+item.ItemRubyShovel.name=Ruby Shovel
+item.ItemRubyHoe.name=Ruby Hoe
+item.ItemRubySword.name=Ruby Sword
+item.ItemIndigoRubyPickaxe.name=Indigo Ruby Pickaxe
+item.ItemIndigoRubyAxe.name=Indigo Ruby Axe
+item.ItemIndigoRubyShovel.name=Indigo Ruby Shovel
+item.ItemIndigoRubyHoe.name=Indigo Ruby Hoe
+item.ItemIndigoRubySword.name=Indigo Ruby Sword
+item.ItemRubyHelmet.name=Ruby Helmet
+item.ItemRubyChest.name=Ruby Chestplate
+item.ItemRubyLeggings.name=Ruby Leggings
+item.ItemRubyBoots.name=Ruby Boots
+#Creative Tabs
+itemGroup.tabEM=Ruby
+#Achievement
+achievement.ruby=Get Ruby!
+achievement.ruby.desc=Get a ruby.
+achievement.getRubyApple=Apple with ruby?
+achievement.getRubyApple.desc=Get a ruby apple.
+achievement.getCookedRubyApple=Terrible Taste!
+achievement.getCookedRubyApple.desc=Get a cooked ruby apple.
+achievement.getRubyTools=Wow! Ruby tools' coming!!!
+achievement.getRubyTools.desc=Get all ruby tools.
+achievement.getRubyArmors=Let's Fight!
+achievement.getRubyArmors.desc=Get all ruby armors.
