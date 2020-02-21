@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "###",
+        "# #",
+        "   "
+    ],
+    
+    "key": {
+        "#": {
+            "item": "ruby:cooked_ruby_apple"
+        }
+    },
+    
+    "result": {
+        "item": "ruby:ruby_helmet",
+        "count": 1
+    }
+}

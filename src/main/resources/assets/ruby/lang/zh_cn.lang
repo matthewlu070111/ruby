@@ -1,0 +1,20 @@
+锘�#Items
+item.ruby.name=绾㈠疂鐭�
+item.ruby_apple.name=绾㈠疂鐭宠嫻鏋�
+item.cooked_ruby_apple.name=鐑ゅ埗杩囩殑绾㈠疂鐭宠嫻鏋�
+#Blocks
+tile.ruby_ore.name=绾㈠疂鐭崇熆鐭�
+tile.ruby_block.name=绾㈠疂鐭冲潡
+#Tools
+item.ruby_axe.name=绾㈠疂鐭虫枾
+item.ruby_hoe.name=绾㈠疂鐭抽攧
+item.ruby_shovel.name=绾㈠疂鐭抽敼
+item.ruby_pickaxe.name=绾㈠疂鐭抽晲
+item.ruby_sword.name=绾㈠疂鐭冲墤
+#Armors
+item.ruby_helmet.name=绾㈠疂鐭冲ご鐩�
+item.ruby_chestplate.name=绾㈠疂鐭宠兏鐢�
+item.ruby_leggings.name=绾㈠疂鐭虫姢鑵�
+item.ruby_boots.name=绾㈠疂鐭抽澊瀛�
+#Creative Tabs
+itemGroup.ruby=绾㈠疂鐭�

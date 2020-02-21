@@ -1,0 +1,9 @@
+{
+    "variants":
+    {
+        "normal":
+        {
+            "model": "ruby:ruby_ore"
+        }
+    }
+}
