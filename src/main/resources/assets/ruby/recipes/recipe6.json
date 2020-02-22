@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " # ",
+        " # ",
+        " S "
+    ],
+    
+    "key": {
+        "#": {
+            "item": "ruby:cooked_ruby_apple"
+        },
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result": {
+        "item": "ruby:ruby_sword",
+        "count": 1
+    }
+}

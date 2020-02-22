@@ -1,0 +1,20 @@
+#Items
+item.ruby.name=红宝石
+item.ruby_apple.name=红宝石苹果
+item.cooked_ruby_apple.name=烤制过的红宝石苹果
+#Blocks
+tile.ruby_ore.name=红宝石矿石
+tile.ruby_block.name=红宝石块
+#Tools
+item.ruby_axe.name=红宝石斧
+item.ruby_hoe.name=红宝石锄
+item.ruby_shovel.name=红宝石锹
+item.ruby_pickaxe.name=红宝石镐
+item.ruby_sword.name=红宝石剑
+#Armors
+item.ruby_helmet.name=红宝石头盔
+item.ruby_chestplate.name=红宝石胸甲
+item.ruby_leggings.name=红宝石护腿
+item.ruby_boots.name=红宝石靴
+#Creative Tabs
+itemGroup.ruby=红宝石
