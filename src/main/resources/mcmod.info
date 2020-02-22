@@ -9,7 +9,7 @@
   "updateUrl": "",
   "authorList": ["imxiaoanag"],
   "credits": "The Forge and FML guys. Thanks for Loremaster's tutorial.",
-  "logoFile": "",
+  "logoFile": "/assets/ruby/textures/items/ruby.png",
   "screenshots": [],
   "dependencies": []
 }
