@@ -14,7 +14,7 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/ruby/icon.png",
+  "icon": "assets/ruby/textures/item/ruby.png",
 
   "environment": "*",
   "entrypoints": {
