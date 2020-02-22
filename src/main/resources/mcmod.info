@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ruby",
+  "name": "Ruby",
+  "description": "A world with Ruby!",
+  "version": "1.0",
+  "mcversion": "1.12",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["imxiaoanag"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "/assests/ruby/textures/items/ruby.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
