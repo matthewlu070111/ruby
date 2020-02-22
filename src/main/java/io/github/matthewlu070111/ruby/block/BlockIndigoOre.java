@@ -9,6 +9,6 @@ public class BlockIndigoOre extends Block {
 		super(material);
 		this.setHardness(7.0F);
 		this.setHarvestLevel("pickaxe", 4);
-		this.setStepSound(this.soundTypeMetal);
+		this.setStepSound(Block.soundTypeMetal);
 	}
 }

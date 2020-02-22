@@ -8,6 +8,6 @@ public class BlockRubyBlock extends Block {
 		super(material);
 		this.setHardness(5.0F);
 		this.setHarvestLevel("pickaxe", 2);
-		this.setStepSound(this.soundTypeMetal);
+		this.setStepSound(Block.soundTypeMetal);
 	}
 }
