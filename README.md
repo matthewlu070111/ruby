@@ -1,6 +1,6 @@
 # Ruby
 #### You can goto [MCBBS][mcbbslink] to download(The page use Chinese Simplified).
-#### You can goto [My Home Page][homeruby] to download(The page use Chinese， English, Japanese).
+#### You can goto [My Home Page][homeruby] to download(The page use Chinese，English and Japanese).
 #### You can goto [BaiduYunDisk][bdyp] to download(The page use Chinese Simplified).Code:UP08
 #### You can goto [Curseforge][curseforge] to download(The page mainly use American English).
 If you want to see the codes:  
