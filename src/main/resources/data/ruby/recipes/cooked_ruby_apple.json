@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "ruby:ruby_apple",
+        "item_h": "ruby:ruby_apple"
+    },
+    "result": "ruby:cooked_ruby_apple",
+    "experience": 5,
+    "cookingtime": 100
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "ruby",
+  "version": "1.0",
+
+  "name": "Ruby",
+  "description": "A world with ruby!",
+  "authors": [
+    "imxiaoanag"
+  ],
+  "contact": {
+    "homepage": "http://mcruby.666forum.com/#FromRubyMod1.14.4Fabric",
+    "sources": "https://matthewlu070111.github.io/ruby"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/ruby/textures/item/ruby.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "io.github.matthewlu070111.ruby.Main"
+    ]
+  },
+  "mixins": [],
+
+  "depends": {
+    "fabricloader": ">=0.4.0",
+    "fabric": "*",
+    "minecraft": "1.14.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}
